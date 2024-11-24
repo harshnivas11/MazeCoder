@@ -1,1 +1,2 @@
 # MazeCoder
+MazeCoder is an interactive and engaging puzzle game that combines maze navigation with problem-solving. The game challenges players to navigate through different mazes while answering randomly generated DSA (Data Structures and Algorithms) questions. The player's ability to answer correctly influences their progress in the maze, with correct answers allowing them to move forward and incorrect answers causing a setback.
